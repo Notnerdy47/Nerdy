@@ -1,0 +1,145 @@
+.navbar-brand{
+  font-weight: bold;
+  font-family:fantasy;
+  font-size: 2rem;
+  padding-right: 469px;
+  color: white;
+
+}
+
+body{
+  overflow-x:  hidden;
+}
+
+#titlename{
+  color: white;
+}
+#navbrand{
+  color: white;
+}
+
+#navhome {
+  color: white;
+}
+#navabout{
+  color: white;
+}
+#morebook{
+  color: white;
+}
+#papers{
+  color: grey;
+}
+
+.main{
+  background-image: url('science5.jpg');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+h1{
+  color: orange;
+  font-weight: bolder;
+  font-size: 4.5rem;
+  padding-bottom: 15px;
+}
+
+h2{
+  color: #aaff80;
+  font-weight: bolder;
+  padding-bottom: 10px;
+}
+h5{
+  color: white;
+  font-style: oblique;
+}
+
+#btn1{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+#btn2{
+  padding-left: 60px;
+  padding-right: 60px;
+
+}
+
+.foot{
+  color: white;
+  font-size: 1rem;
+  padding-top: 12px;
+}
+
+.footer{
+  background-color: black;
+}
+
+
+
+
+
+@media only screen and (max-width:750px) {
+
+  body{
+    overflow-x: hidden;
+  }
+
+  .indexh1{
+    position: relative;
+    left: -297px;
+  }
+
+  .indexh2{
+    position: relative;
+    left: -297px;
+  }
+  .indexh5{
+    position: relative;
+    left: -297px;
+  }
+#btn1 {
+  position: relative;
+  left: -297px;
+}
+#btn2{
+  position: relative;
+  left: -297px;
+}
+.aboutcontent{
+  position: relative;
+  left: -297px;
+}
+.abouth4{
+  position: relative;
+  left: -297px;
+  margin-bottom: 20px;
+}
+.abouth3{
+  position: relative;
+  left: -297px;
+  margin-bottom: 10px;
+}
+.subh3{
+  position: relative;
+  left: -297px;
+}
+.subh6{
+  position: relative;
+  left: -297px;
+}
+.subp{
+  position: relative;
+  left: -297px;
+}
+
+
+#navbutton{
+  background-color: white;
+}
+#navbutton:hover{
+  border:2px solid black;
+}
