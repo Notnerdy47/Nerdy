@@ -147,8 +147,7 @@ h5{
 
 #navbutton{
   background-color: white;
-  position:relative;
-  left:-65px;
+  
 }
 #navbutton:hover{
   border:2px solid black;
