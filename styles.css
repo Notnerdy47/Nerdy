@@ -123,6 +123,7 @@ h5{
 .aboutcontent{
   position: relative;
   left: -322px;
+  font-size:2rem;
 }
 .abouth4{
   position: relative;
@@ -131,7 +132,7 @@ h5{
 }
 .abouth3{
   position: relative;
-  left: -297px;
+  left: -324px;
   margin-bottom: 10px;
 }
 .subh3{
